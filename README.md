@@ -25,8 +25,8 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## Installation Project
 1. Buka **cmd** lalu ketikkan
-2. Cloning repository : `git clone https://gitlab.com/bangiim/pks-sip.git`
-3. Masuk ke directory project : `cd pks-sip`
+2. Cloning repository : `git clone https://github.com/bangiim/belajar-laravel.git`
+3. Masuk ke directory project : `cd belajar-laravel`
 4. `composer install`
 5. Buat file `.env`, isinya diambil dari `.env.example`
 6. Buat **database**, lalu masukkan nama database ke `DB_DATABASE` di file `.env`
