@@ -39,6 +39,9 @@
                         <li class="nav-item">
                             <a href="/kategori" class="nav-link">Kategori</a>
                         </li>
+                        <li class="nav-item">
+                            <a href="/berita" class="nav-link">Berita</a>
+                        </li>
                     </ul>
 
                     <!-- Right Side Of Navbar -->
